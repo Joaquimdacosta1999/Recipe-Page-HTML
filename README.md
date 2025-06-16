@@ -18,9 +18,3 @@ This project is a static HTML page designed to display a classic cookie recipe. 
 - Beginner-friendly layout—no CSS or JavaScript
 
 ---
-
-## 🍴 How to Use
-
-1. Clone or download the project:
-   ```bash
-   git clone https://github.com/Joaquimdacosta1999/chocolate-chip-cookies.git
